@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <SiteThemeProvider theme={{ styleVariant: "funAndTrendy", colorTemplate: 1, textAnimation: "slide" }}>
       <div id="nav" data-section="nav">
-        <NavbarLayoutFloatingOverlay navItems={[{ name: '#hero', id: 'hero' }, { name: '#about', id: 'about' }, { name: '#how-to-buy', id: 'how-to-buy' }, { name: '#faq', id: 'faq' }, { name: '#tokenomics', id: 'tokenomics' }, { name: '#footer', id: 'footer' }]} logoSrc="/images/logo.svg" logoAlt="Mvpblocks Logo" buttonText="Start free trial" />
+        <NavbarLayoutFloatingOverlay navItems={[{ name: '#hero', id: 'hero' }, { name: '#about', id: 'about' }, { name: '#how-to-buy', id: 'how-to-buy' }, { name: '#faq', id: 'faq' }, { name: '#tokenomics', id: 'tokenomics' }, { name: '#footer', id: 'footer' }]} logoSrc="/images/logo.svg" logoWidth={50} logoHeight={50} buttonText="Start free trial" onButtonClick={() => {}} />
       </div>
       <div id="hero" data-section="hero">
         <SplitHero title="Welcome to Mvpblocks" subtitle="Your fun, friendly SaaS solution for transactions!" primaryButtonText="Join Us" secondaryButtonText="Learn More" />
