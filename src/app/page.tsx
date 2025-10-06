@@ -30,7 +30,7 @@ export default function Home() {
         <TextGridTokenomics title="Tokenomics" description="Understanding our token metrics is crucial for your investments." tokenData={[{ value: "1M", description: "Total Supply" }, { value: "100K", description: "Reserved for Team" }, { value: "500K", description: "Available for Sale" }]} />
       </div>
       <div id="footer" data-section="footer">
-        <FooterLogo logoSrc="/images/logo.svg" logoAlt="Mvpblocks Logo" logoText="Mvpblocks" className="footer-logo" />
+        <FooterLogo logoSrc="/images/logo.svg" logoAlt="Mvpblocks Logo" logoText="wefwefewf" className="footer-logo" />
       </div>
     </SiteThemeProvider>
   );
