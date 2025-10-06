@@ -27,7 +27,7 @@ export default function Home() {
         <BentoFAQ items={[{ title: "What does Mvpblocks asawdfsa?", content: "Mvpblocks provides a simple platform for transactions across different cryptocurrencies." }, { title: "How secure is my data?", content: "We prioritize your privacy and use top-notch security protocols to ensure your data is safe." }]} />
       </div>
       <div id="tokenomics" data-section="tokenomics">
-        <TextGridTokenomics title="Tokenomics" description="Understanding our token metrics is crucial for your investments." tokenData={[{ value: "1M", description: "Total Supply" }, { value: "100K", description: "Reserved for Team" }, { value: "500K", description: "Available for Sale" }]} />
+        <TextGridTokenomics title="Tokenomics" description="Understanding our token metrics is crucial for your investments." tokenData={[{ value: "1M", description: "Tsavely" }, { value: "100K", description: "Reserved for Team" }, { value: "500K", description: "Available for Sale" }]} />
       </div>
       <div id="footer" data-section="footer">
         <FooterLogo logoSrc="/images/logo.svg" logoAlt="Mvpblocks Logo" logoText="wefwefewf" className="footer-logo" />
