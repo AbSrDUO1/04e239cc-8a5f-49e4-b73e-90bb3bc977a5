@@ -18,7 +18,7 @@ export default function Home() {
         <SplitHero title="Welcome to Mvpblocks" subtitle="wegrwherhrherherherh" primaryButtonText="Join Usqewfef" secondaryButtonText="Learn Morergrgr" />
       </div>
       <div id="about" data-section="about">
-        <SocialsAbout title="About Mvpblocks" descriptions={["We provide easy solutions for your transactions.", "Join us in making your financial tasks simpler and fun!"]} />
+        <SocialsAbout title="About Mvpblocks" descriptions={["We provide easy solutions for your transactions.", "lhgyutfyfrdfghyjutgfhbvhgv"]} />
       </div>
       <div id="how-to-buy" data-section="how-to-buy">
         <HowToBuy3D title="How to Buy" steps={[{ title: "Step edqwfegsrhdth1", description: "wrhrhhehrshrehrerhre", image: "/images/placeholder1.avif", position: "left", isCenter: false }, { title: "Step 2", description: "Verify your identity.", image: "/images/placeholder2.avif", position: "center", isCenter: true }, { title: "Step 3", description: "Complete your purchase.", image: "/images/placeholder3.avif", position: "right", isCenter: false }]} />
