@@ -15,7 +15,7 @@ export default function Home() {
         <NavbarLayoutFloatingOverlay navItems={[{ name: '#hero', id: 'hero' }, { name: '#about', id: 'about' }, { name: '#how-to-buy', id: 'how-to-buy' }, { name: '#faq', id: 'faq' }, { name: '#tokenomics', id: 'tokenomics' }, { name: '#footer', id: 'footer' }]} logoSrc="/images/logo.svg" logoWidth={50} logoHeight={50} buttonText="Start free trial" onButtonClick={() => {}} />
       </div>
       <div id="hero" data-section="hero">
-        <SplitHero title="Welcome to Mvpblocks" subtitle="Your fun, friendly SaaS solution for transactions!" primaryButtonText="Join Us" secondaryButtonText="Learn More" />
+        <SplitHero title="Welcome to Mvpblocks" subtitle="wegrwherhrherherherh" primaryButtonText="Join Us" secondaryButtonText="Learn More" />
       </div>
       <div id="about" data-section="about">
         <SocialsAbout title="About Mvpblocks" descriptions={["We provide easy solutions for your transactions.", "Join us in making your financial tasks simpler and fun!"]} />
