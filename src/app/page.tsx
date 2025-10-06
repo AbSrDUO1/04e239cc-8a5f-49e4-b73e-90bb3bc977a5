@@ -21,10 +21,10 @@ export default function Home() {
         <SocialsAbout title="About Mvpblocks" descriptions={["We provide easy solutions for your transactions.", "Join us in making your financial tasks simpler and fun!"]} />
       </div>
       <div id="how-to-buy" data-section="how-to-buy">
-        <HowToBuy3D title="How to Buy" steps={[{ title: "Step 1", description: "Create an account.", image: "/images/placeholder1.avif", position: "left", isCenter: false }, { title: "Step 2", description: "Verify your identity.", image: "/images/placeholder2.avif", position: "center", isCenter: true }, { title: "Step 3", description: "Complete your purchase.", image: "/images/placeholder3.avif", position: "right", isCenter: false }]} />
+        <HowToBuy3D title="How to Buy" steps={[{ title: "Step edqwfegsrhdth1", description: "wrhrhhehrshrehrerhre", image: "/images/placeholder1.avif", position: "left", isCenter: false }, { title: "Step 2", description: "Verify your identity.", image: "/images/placeholder2.avif", position: "center", isCenter: true }, { title: "Step 3", description: "Complete your purchase.", image: "/images/placeholder3.avif", position: "right", isCenter: false }]} />
       </div>
       <div id="faq" data-section="faq">
-        <BentoFAQ items={[{ title: "What does Mvpblocks do?", content: "Mvpblocks provides a simple platform for transactions across different cryptocurrencies." }, { title: "How secure is my data?", content: "We prioritize your privacy and use top-notch security protocols to ensure your data is safe." }]} />
+        <BentoFAQ items={[{ title: "What does Mvpblocks asawdfsa?", content: "Mvpblocks provides a simple platform for transactions across different cryptocurrencies." }, { title: "How secure is my data?", content: "We prioritize your privacy and use top-notch security protocols to ensure your data is safe." }]} />
       </div>
       <div id="tokenomics" data-section="tokenomics">
         <TextGridTokenomics title="Tokenomics" description="Understanding our token metrics is crucial for your investments." tokenData={[{ value: "1M", description: "Total Supply" }, { value: "100K", description: "Reserved for Team" }, { value: "500K", description: "Available for Sale" }]} />
